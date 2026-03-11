@@ -1,0 +1,9 @@
+Student name: Sophie Shannon
+Student email: Sophia.Shannon1@maine.edu
+Assignment: 3
+---
+Challenge: 1
+P5.js sketch URL: https://editor.p5js.org/Sophi157/sketches/xNXJaU4fY
+Debugging chat transcript URL (optional):
+How it went: 
+This challenge was harder than I thought, but it helped to have instructions along with the assingment. I wanted to make a new file so it would feel like practicing more on my own. I made a new sprite instead of using the bird, however it was not as detailed. I felt like I didn't want to make it look too detailed because I didn't want my code to get too onfusing in case we were adding onto it. But I did enjoy the assignment overall. 

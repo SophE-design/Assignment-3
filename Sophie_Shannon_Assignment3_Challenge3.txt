@@ -18,8 +18,16 @@ This was way simplier to do than challenge 1 because I already had the code, so 
 
 Assignment: 3
 ---
-Challenge:3
+Challenge: 3
 P5.js sketch URL: https://editor.p5js.org/Sophi157/sketches/R1IwCXUhC
 Debugging chat transcript URL (optional):
 How it went: 
 At first I was a bit confused with what the instructions were asking of me. Whether I was supposed to just make a seed that would reset every time it hit the bottom of the screen, or just have it randomly drop every time you load in the sprite. I went with the second option because I was unsure how to do the next step fully. Overall the process was easy, the only suggestion I have is to make the instructions a little more clear.
+
+Assignment: 3
+---
+Challenge: 4
+P5.js sketch URL: https://editor.p5js.org/Sophi157/sketches/R7uYN91Hn
+Debugging chat transcript URL (optional):
+How it went: 
+I think the process went pretty smoothly because once I understood how to control the seed falling already so it was easy to add the click and reset behavior without changing the rest of the code. I did get a little confused with the mousePressed and the mousIsPressed for a moment, but then was able to execute it correctly. 

@@ -31,3 +31,11 @@ P5.js sketch URL: https://editor.p5js.org/Sophi157/sketches/R7uYN91Hn
 Debugging chat transcript URL (optional):
 How it went: 
 I think the process went pretty smoothly because once I understood how to control the seed falling already so it was easy to add the click and reset behavior without changing the rest of the code. I did get a little confused with the mousePressed and the mousIsPressed for a moment, but then was able to execute it correctly. 
+
+Assignment: 3
+---
+Challenge: 5
+P5.js sketch URL: https://editor.p5js.org/Sophi157/sketches/FrqDrJ239
+Debugging chat transcript URL (optional):
+How it went: 
+Completing this assignment and seeing its final results made me enjoy the process and even my struggles through it all the more. Overall this assingment was easier than the rest where I changed the speed of the seed and allowed the catcher to catch the seed. I wanted to make a gme over message pop up if he "dies" however, I was unsure how to create the code for that and where I would place it.  
